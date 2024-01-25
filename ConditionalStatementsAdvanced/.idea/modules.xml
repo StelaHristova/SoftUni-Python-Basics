@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ConditionalStatements/.idea/ConditionalStatements.iml" filepath="$PROJECT_DIR$/../ConditionalStatements/.idea/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ConditionalStatementsAdvanced.iml" filepath="$PROJECT_DIR$/.idea/ConditionalStatementsAdvanced.iml" />
+      <module fileurl="file://$USER_HOME$/.idea/Stela.iml" filepath="$USER_HOME$/.idea/Stela.iml" />
+    </modules>
+  </component>
+</project>

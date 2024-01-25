@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ConditionalStatements/.idea/ConditionalStatements.iml" filepath="$PROJECT_DIR$/../ConditionalStatements/.idea/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConditionalStatementsAdvanced/.idea/ConditionalStatementsAdvanced.iml" filepath="$PROJECT_DIR$/../ConditionalStatementsAdvanced/.idea/ConditionalStatementsAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Drawing Figures with Loops - More Exercises/.idea/Drawing Figures with Loops - More Exercises.iml" filepath="$PROJECT_DIR$/../Drawing Figures with Loops - More Exercises/.idea/Drawing Figures with Loops - More Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstSteps.iml" filepath="$PROJECT_DIR$/.idea/FirstSteps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ForLoop_Lab/.idea/ForLoop_Lab.iml" filepath="$PROJECT_DIR$/../ForLoop_Lab/.idea/ForLoop_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../For_Loop_Exercise/.idea/For_Loop_Exercise.iml" filepath="$PROJECT_DIR$/../For_Loop_Exercise/.idea/For_Loop_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Nested Loops - Exercise/.idea/Nested Loops - Exercise.iml" filepath="$PROJECT_DIR$/../Nested Loops - Exercise/.idea/Nested Loops - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Nested Loops - Lab/.idea/Nested Loops - Lab.iml" filepath="$PROJECT_DIR$/../Nested Loops - Lab/.idea/Nested Loops - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../While_Loop_Exercise/.idea/While_Loop_Exercise.iml" filepath="$PROJECT_DIR$/../While_Loop_Exercise/.idea/While_Loop_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../While_Loop_Lab/.idea/While_Loop_Lab.iml" filepath="$PROJECT_DIR$/../While_Loop_Lab/.idea/While_Loop_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exam_preparation/.idea/exam_preparation.iml" filepath="$PROJECT_DIR$/../exam_preparation/.idea/exam_preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pre_exam/.idea/pre_exam.iml" filepath="$PROJECT_DIR$/../pre_exam/.idea/pre_exam.iml" />
+    </modules>
+  </component>
+</project>
